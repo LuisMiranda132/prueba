@@ -13,7 +13,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Prueba que prueba la prueba</title>
+        <title>Prueba que prueba the prueba</title>
     </head>
     <body>
         <h1>Almacenar</h1>

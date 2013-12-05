@@ -13,7 +13,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Catalogo Operaciones</title>
+        <title>Catalogo opciones</title>
     </head>
     <body>
         <h1>Personal</h1>
