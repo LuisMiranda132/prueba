@@ -21,7 +21,7 @@
         <table border="0" class="altrowstable" id="alternatecolor">
                 <thead>
                     <tr>
-                        <th width="155px" align="center">
+                        <th width="300px" align="center">
                             ci
                         </th>
                         <th width="155px" align="center">
